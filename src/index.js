@@ -2,8 +2,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-//create react component
-
 //we can use functional components
 
 const getValue = () => {
